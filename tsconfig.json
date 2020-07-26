@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    //"target": "es6",
+    "strict": true,
+    "lib": ["ESNext", "DOM"],
+    "sourceMap": true
+  }
+}
